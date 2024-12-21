@@ -45,3 +45,9 @@ streamlit run app.py
 
 1. Upload an image using the file uploader
 2. Type your question about the image in the text input and press enter
+
+## Demo
+
+
+https://github.com/user-attachments/assets/aa99ee5e-ea16-4f59-9fe4-6c8316a10eaa
+
